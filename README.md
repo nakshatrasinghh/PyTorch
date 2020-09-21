@@ -2,6 +2,8 @@
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/nakshatrasinghh/).
 
+If you want to build something together, feel free to email me at - nakshatradsu@gmail.com :)
+
 👉 If you like my work, check out my other [Repositories!](https://github.com/nakshatrasinghh?tab=repositories) 👈
 
 Click <img src="https://colab.research.google.com/assets/colab-badge.svg" align="top"> to view the **Jupyter notebook** in Google Colab:
