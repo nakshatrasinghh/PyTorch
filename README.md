@@ -35,7 +35,7 @@ The library currently contains PyTorch implementations, pre-trained model weight
 ![]()
 
 # Message Me
-Feel free to click on the icon to personally message me on Whatsapp if you have any doubt regarding the notebooks :)
+Feel free to click on the icon to personally message me on Whatsapp if you have any doubts :)
 </a>
 <a href="https://wa.link/8bt67v">
   <img align="left" alt="Nakshatra's Whatsapp" width="30px" src="https://image.flaticon.com/icons/svg/785/785767.svg" />
