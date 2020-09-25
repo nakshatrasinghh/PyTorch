@@ -1,6 +1,10 @@
 # 🤖⚡ My Natural Language Processing Notebooks
 
+Made with ❤️ by Nakshatra Singh.
+
 Connect with me on [LinkedIn](https://www.linkedin.com/in/nakshatrasinghh/).
+
+Please do ⭐ the repository, if it helped you in anyway.
 
 If you want to build something together, feel free to email me at - nakshatradsu@gmail.com :)
 
