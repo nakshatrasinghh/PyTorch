@@ -1,4 +1,5 @@
 # 🤖⚡ My Natural Language Processing Notebooks
+[![](https://img.shields.io/badge/Nakshatra-Singh-brightgreen.svg?colorB=ff0000)](https://nakshatrasinghh-io.vercel.app/) [![](https://img.shields.io/hexpm/l/plug)](https://github.com/nakshatrasinghh/Natural-Language-Processing/blob/master/LICENSE)
 
 Made with ❤️ by Nakshatra Singh.
 
@@ -27,7 +28,11 @@ Click <img src="https://colab.research.google.com/assets/colab-badge.svg" align=
 09 | [Classifying Toxic Comments with BERT using Jigsaw Toxic Comment Classification Dataset (Pytorch)](https://github.com/nakshatrasinghh/Natural-Language-Processing/blob/master/Toxic_Comment_Classification%2BBERT.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nakshatrasinghh/Natural-Language-Processing/blob/master/Toxic_Comment_Classification%2BBERT.ipynb)
 10 | [Disaster Tweets Classification with SVM and BERT with Exploratory Data Analysis](https://github.com/nakshatrasinghh/Natural-Language-Processing/blob/master/Disaster_Tweets_Classification_with_SVM_and_BERT.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nakshatrasinghh/Natural-Language-Processing/blob/master/Disaster_Tweets_Classification_with_SVM_and_BERT.ipynb)
 11 | [Email Spam Detection using Multinomial Naive Bayes Algorithm and CountVectorizer (BOW)](https://github.com/nakshatrasinghh/Natural-Language-Processing/blob/master/Email_Spam_Detection.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nakshatrasinghh/Natural-Language-Processing/blob/master/Email_Spam_Detection.ipynb)
-12 | [SMS Spam Detection using 7 Differnt Machine Learning Algorithms and CountVectorizer (BOW)](https://github.com/nakshatrasinghh/Natural-Language-Processing/blob/master/Spam_Detection_with_7_ML_Algorithms.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nakshatrasinghh/Natural-Language-Processing/blob/master/Spam_Detection_with_7_ML_Algorithms.ipynb)
+12 | [SMS Spam Detection using 7 Differnt Machine Learning Algorithms, and CountVectorizer (BOW)](https://github.com/nakshatrasinghh/Natural-Language-Processing/blob/master/Spam_Detection_with_7_ML_Algorithms.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nakshatrasinghh/Natural-Language-Processing/blob/master/Spam_Detection_with_7_ML_Algorithms.ipynb)
+13 | [StackOverFlow Tag Prediction using Logistic Regression, OneVsRestClassifer, and MultiLabelBinarizer with Jaccard Score as Evaluation Metric](https://github.com/nakshatrasinghh/Natural-Language-Processing/blob/master/Multi_Label_Text_Classification.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nakshatrasinghh/Natural-Language-Processing/blob/master/Multi_Label_Text_Classification.ipynb)
+14 | [MultiLabel Toxic Comments Classification with DistilBERT using Jigsaw Toxic Comment Classification Dataset (Pytorch)](https://github.com/nakshatrasinghh/Natural-Language-Processing/blob/master/MutliLabel_Toxic_Comment_Classification.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nakshatrasinghh/Natural-Language-Processing/blob/master/MutliLabel_Toxic_Comment_Classification.ipynb)
+15 | [Quora Duplicate Questions Detection using Siamese Neural Network, Triplet Loss Function, and Trax](https://github.com/nakshatrasinghh/Natural-Language-Processing/blob/master/Duplicate_Question_Recognition.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nakshatrasinghh/Natural-Language-Processing/blob/master/Duplicate_Question_Recognition.ipynb)
+16 | [Urdu Sentiment Classification using Transformers and MultiLingual BERT Model by Hugging Face (Pytorch)](https://github.com/nakshatrasinghh/Natural-Language-Processing/blob/master/Urdu_Sentiment_using_MultiLingual_BERT.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nakshatrasinghh/Natural-Language-Processing/blob/master/Urdu_Sentiment_using_MultiLingual_BERT.ipynb)
 
 
 # 👾PyTorch
@@ -42,8 +47,18 @@ The library currently contains PyTorch implementations, pre-trained model weight
 ![]()
 
 # Message Me
-Feel free to click on the icon to personally message me on Whatsapp if you have any doubts :)
-</a>
-<a href="https://wa.link/8bt67v">
-  <img align="left" alt="Nakshatra's Whatsapp" width="30px" src="https://image.flaticon.com/icons/svg/785/785767.svg" />
-</a>
+If you have any doubts feel free to click on the social icon you would like to connect with 🤗
+<p align="left">
+<a href="https://medium.com/@nakshatradsml"><img height="42" src="https://user-images.githubusercontent.com/53419293/96714013-27a8fe80-13bf-11eb-892b-eb859e66cd2b.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/nakshatrasinghh/"><img height="42" src="https://user-images.githubusercontent.com/53419293/96712764-3e4e5600-13bd-11eb-81e6-50b8c7ea07eb.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://nakshatrasinghh-io.vercel.app/"><img height="42" src="https://user-images.githubusercontent.com/53419293/96724683-bf154e00-13cd-11eb-805e-464c73b45316.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://github.com/nakshatrasinghh"><img height="42" src="https://user-images.githubusercontent.com/53419293/96712562-f7606080-13bc-11eb-86dd-b91470be7b55.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.snapchat.com/add/nxkshxtrx.singh"><img height="42" src="https://user-images.githubusercontent.com/53419293/96713786-c41ed100-13be-11eb-9c21-f4d3b0c36220.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://wa.link/8bt67v"><img height="42" src="https://user-images.githubusercontent.com/53419293/96714143-59ba6080-13bf-11eb-8f52-3123014be2da.png?raw=true"></a>&nbsp;&nbsp;
+</p>
+
+# Support Me
+If you liked my work and gained **insightful knowledge**, you can buy me a coffee buying click the button below 😊
+
+<a href="https://www.buymeacoffee.com/nakshatrasinghh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-red.png" alt="Buy Me A Coffee" img height="49"></a>
+
